@@ -1,5 +1,5 @@
-About this project:
-It is a project about posting suspicious crime, reporting suspects, or report crime activity.
+<h1>About this project:</h1><br>
+It is a Full-Stack project about posting suspicious crime, reporting suspects, or report crime activity.
 Users can earn rewards for reporting crime, which can later be used as grocery vouchers.
 
 Back-end:
